@@ -23,7 +23,7 @@ Site institucional de uma empresa de climatização em BH. Construído com TanSt
 
 Se quiser trocar uma ideia, me chama:
 
-- 📧 filipe@cnpjotas.com
+- 📧 filiperonald@outlook.com.br
 
 ---
 
