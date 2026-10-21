@@ -2,17 +2,18 @@
 
 # Oi, eu sou o Filipe 👋
 
-### Marketing, estratégia e experiências digitais.
+### Marketing, UI/UX, frontend e branding.
 
-Transformo ideias em comunicação clara, campanhas bem pensadas e projetos digitais úteis.
+Atuo entre estratégia e criação: desenvolvo marcas, experiências digitais e interfaces que conectam boas ideias a pessoas.
 
 [Entre em contato](mailto:filiperonald@outlook.com.br) · [Veja meu GitHub](https://github.com/filiperonald)
 
 <br />
 
 ![Marketing](https://img.shields.io/badge/Marketing-Estrat%C3%A9gia-173f35?style=for-the-badge)
-![Conteúdo](https://img.shields.io/badge/Conte%C3%BAdo-e_campanhas-173f35?style=for-the-badge)
-![Projetos digitais](https://img.shields.io/badge/Projetos-digitais-173f35?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design_de_produto-173f35?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Desenvolvimento-173f35?style=for-the-badge)
+![Branding](https://img.shields.io/badge/Branding-Identidade-173f35?style=for-the-badge)
 
 </div>
 
@@ -20,11 +21,13 @@ Transformo ideias em comunicação clara, campanhas bem pensadas e projetos digi
 
 ## Um pouco sobre mim
 
-Atuo com **marketing**, trabalhando com estratégia, conteúdo, campanhas digitais e análise de resultados. Também gosto de tirar ideias do papel e construir soluções para a web — unindo visão de negócio, comunicação e tecnologia.
+Atuo com **marketing, UI/UX, frontend e branding**, combinando estratégia, conteúdo e análise de resultados com criação de marcas, design de interfaces e desenvolvimento web. Gosto de tirar ideias do papel e construir experiências digitais úteis — unindo visão de negócio, comunicação e tecnologia.
 
 ## O que faço
 
 - **Marketing:** estratégia de conteúdo, redes sociais, campanhas e análise de desempenho.
+- **UI/UX e branding:** identidade de marca, design de interfaces e experiências pensadas para as pessoas.
+- **Frontend:** desenvolvimento de sites e interfaces responsivas, com atenção à usabilidade e aos detalhes.
 - **Projetos digitais:** sites, landing pages e ferramentas que resolvem necessidades reais.
 - **Meu jeito de trabalhar:** simplicidade, atenção aos detalhes e foco no que funciona.
 
