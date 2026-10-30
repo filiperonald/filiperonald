@@ -85,6 +85,8 @@ Ferramentas que uso para transformar ideias em interfaces e produtos digitais.
 
 ## Um reconhecimento no caminho
 
+<img src="https://filiperonald.com/images/dia-d-cnpjotas-2024.jpg" alt="Filipe Ronald com o prêmio ao lado de colegas no Dia D Cnpjotas 2024." width="140" />
+
 **1º lugar · “Transformar Clientes em Fãs”**<br />
 Dia D Cnpjotas · 2024
 
