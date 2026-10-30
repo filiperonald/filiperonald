@@ -1,5 +1,7 @@
 # Conteúdo e UX
 
+Para redação e revisão, use stop-slop quando instalada, conforme [SKILLS.md](SKILLS.md), e aplique [ANTI-AI-SLOP.md](ANTI-AI-SLOP.md). Preserve fatos, voz da marca e sentido ao cortar fórmulas repetitivas.
+
 Escrever para a decisão do visitante: o que é, para quem serve, por que confiar e o próximo passo. Preferir descrição concreta a slogans vagos. Usar títulos informativos, parágrafos legíveis e CTAs que descrevem destino: “Ver projetos”, “Experimentar conversor”, “Solicitar orçamento”.
 
 Não prometer resultados, economia ou resposta imediata sem evidência. Depoimentos, prêmios, métricas e logos exigem origem e autorização pertinentes. Em protótipos, marcar exemplos como demonstração. Humanizar com processo, bastidores e linguagem clara sem fabricar prova social.

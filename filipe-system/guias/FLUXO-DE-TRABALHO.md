@@ -14,4 +14,6 @@ Registrar requisitos, propostas e decisões aprovadas separadamente. Não transf
 
 Interface: design-taste-frontend ou impeccable conforme a tarefa. Movimento novo: animate; performance: animation-performance; auditoria: improve-animations; revisão pontual: review-animations. Mobile: mobile-native; Expo: animate-expo. Backend Neon: escolher o guia específico. Leia o catálogo e respeite os gatilhos de cada skill.
 
+Para planos, revisão de texto, testes, comentários de PR, diagramas, apresentações e integrações, consulte [SKILLS.md](SKILLS.md). Use esse guia para conferir requisitos e combinar skills sem misturar modos de leitura, implementação e publicação.
+
 Os documentos em referencia-portfolio/ contêm histórico e podem contradizer versões anteriores. Para aquele site, consultar decisões recentes e tokens atuais. Para um novo projeto, prevalece o briefing dele.

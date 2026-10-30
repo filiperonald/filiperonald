@@ -88,6 +88,8 @@ As cópias de plugins não instalam ferramentas, não conectam contas e não tra
 
 ## Escolha por tarefa
 
+Consulte a tabela completa de tarefas, requisitos e precedência em [SKILLS.md](../guias/SKILLS.md).
+
 - Interface e direção: design-taste-frontend, impeccable, emil-design-eng.
 - Movimento novo: animate; Expo: animate-expo; desempenho: animation-performance.
 - Auditoria de movimento: improve-animations; revisão: review-animations; oportunidades: find-animation-opportunities. Respeitar os modos somente leitura.
@@ -98,3 +100,19 @@ As cópias de plugins não instalam ferramentas, não conectam contas e não tra
 - OpenAI, criação/instalação de skills, imagens e Swift: consultar as respectivas skills locais quando aplicável.
 
 Licenças e atribuições originais permanecem nos arquivos copiados. Verificar permissões antes de redistribuir.
+
+## Sete instalações posteriores
+
+Conferidas em 30/10/2026. Não entram nas 79 entradas do snapshot acima. Instalação e presença de arquivos não comprovam funcionamento de scripts, dependências ou integrações.
+
+| Skill / nome de uso | Escopo e caminho | Origem e observação |
+| --- | --- | --- |
+| create-plan | Global: `~/.codex/skills/create-plan/` | [openai/skills](https://github.com/openai/skills/tree/a5119697b819090e00e5d11ee1d86834d7c1043a/skills/.experimental/create-plan). Versão histórica fixada; removida do catálogo atual. |
+| gh-address-comments | Global: `~/.codex/skills/gh-address-comments/` | [openai/skills](https://github.com/openai/skills/tree/main/skills/.curated/gh-address-comments). Requer Git, gh autenticado e PR. |
+| stop-slop | Global: `~/.codex/skills/stop-slop/` | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop). Revisão de prosa. |
+| webapp-testing | Projeto: [.agents/skills/webapp-testing/SKILL.md](../.agents/skills/webapp-testing/SKILL.md) | [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/webapp-testing). Requer ambiente Playwright; instalador relatou um alerta e risco médio no Snyk, sem análise adicional nesta revisão. |
+| grill-me | Projeto: [.agents/skills/grill-me/SKILL.md](../.agents/skills/grill-me/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills). O arquivo apenas chama grilling; essa dependência não consta das instalações feitas nesta conversa. Uso pendente de resolução. |
+| excalidraw-diagram | Global: `~/.codex/skills/excalidraw/` | [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill). Nome interno diferente da pasta: usar excalidraw-diagram conforme o catálogo do agente. |
+| frontend-slides | Global: `~/.codex/skills/frontend-slides/` | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides). Inclui cópia aninhada frontend-slides:frontend-slides; escolher uma origem. |
+
+As duas skills de projeto acompanham este kit quando `.agents/skills/` é copiada. As cinco globais precisam de instalação na máquina de destino. O [lockfile da raiz](../skills-lock.json) registra as instalações do CLI; o inventário original permanece histórico.

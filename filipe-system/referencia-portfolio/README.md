@@ -1,5 +1,7 @@
 # Portfólio — documentação do MVP
 
+> Referência histórica do projeto de origem. Comandos, versões, caminhos e resultados abaixo descrevem aquele portfólio. Para usar este kit em novos projetos, comece pelo [README do FILIPE SYSTEM](../README.md) e pelo [guia de skills](../guias/SKILLS.md).
+
 ## Atualização — LP implementada
 
 A página inicial `/` apresenta o portfólio de Filipe Ronald, com projetos, Sobre mim, exploração de disciplinas e contato pelo GitHub informado. Não há links de login/administração na LP. `/login` é o acesso restrito; `/admin` exige sessão válida. Sitemap e robots estão implementados. Conteúdo, direção visual e limites em [LP](LP.md). O estado de scaffold descrito abaixo é histórico.

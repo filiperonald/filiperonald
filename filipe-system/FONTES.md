@@ -26,3 +26,7 @@ Projeto filiperonald-site/projetos. referencia-portfolio/ preserva Markdown e to
 Skills preservam os arquivos originais. skills/INVENTARIO.json registra origem, destino e SHA256 do SKILL.md. skills/skills-lock.projeto.json é o lockfile original, que lista menos entradas que as pastas existentes; não representa um lockfile das 79 cópias.
 
 Este pacote não exporta .env, credenciais, banco ou dados de runtime. Referências a nomes de variáveis e exemplos de ferramentas podem existir nas instruções. Plugins copiados não transferem autenticação ou disponibilidade das ferramentas.
+
+## Instalações posteriores ao snapshot
+
+O [catálogo](skills/CATALOGO.md) registra sete adições e seus repositórios de origem. Duas ficam em `.agents/skills/`; cinco ficam na instalação global do Codex e não foram exportadas para `skills/`. O lockfile da raiz cobre apenas as duas instalações feitas pelo CLI skills. A versão histórica de create-plan e a dependência pendente de grill-me estão indicadas no catálogo.

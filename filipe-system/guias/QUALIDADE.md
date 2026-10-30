@@ -24,6 +24,9 @@
 
 ## Engenharia
 
+- [ ] Skills usadas identificadas; dependências, ferramentas e limites de leitura ou escrita conferidos conforme [SKILLS.md](SKILLS.md).
+- [ ] Verificações adequadas ao artefato: webapp-testing quando aplicável, renderização de diagramas e navegação/escala em apresentações; não declarar verificações não executadas.
+
 - [ ] Build/typecheck/lint existentes executados conforme escopo.
 - [ ] Testes úteis para comportamento alterado; sem testes que só espelham implementação.
 - [ ] Console e requisições sem falhas relevantes; mídia sem saltos inesperados.
