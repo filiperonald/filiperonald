@@ -19,4 +19,6 @@ Adapte ao briefing, marca e stack reais. Solicitações atuais do usuário preva
 
 Pesquisar contexto antes de desenhar. Construir direção visual própria, conteúdo específico, responsividade e estados úteis. Nunca inventar provas sociais. Movimento não deve impedir leitura ou ação. Segurança e acessibilidade fazem parte da implementação.
 
+Evite AI slop: antes de criar ou revisar interfaces e conteúdo, aplique [ANTI-AI-SLOP.md](guias/ANTI-AI-SLOP.md). Justifique escolhas pelo briefing, use conteúdo verificável e revise padrões genéricos, efeitos sem função e interações incompletas. Não confunda originalidade com excesso de decoração.
+
 Consulte guias/FLUXO-DE-TRABALHO.md, guias/SECURITY.md e guias/QUALIDADE.md; ajuste caminhos se mover este arquivo.

@@ -3,7 +3,7 @@
 1. Descoberta: objetivo, público, ação principal, materiais reais e restrições.
 2. Inspeção: stack, versões, arquitetura, instruções, componentes e alterações locais.
 3. Pesquisa: setor, referências visuais, fontes e direitos de imagem.
-4. Direção: conceito, composição, tipografia, cor, imagens e intensidade de movimento.
+4. Direção: conceito, composição, tipografia, cor, imagens e intensidade de movimento. Aplicar [ANTI-AI-SLOP.md](ANTI-AI-SLOP.md) e registrar decisões específicas ao briefing.
 5. Implementação: semântica e conteúdo; responsividade e estados; movimento e refinamento.
 6. Verificação: navegador, teclado, mobile, erros, desempenho e segurança proporcional ao escopo.
 7. Entrega: mudanças, evidências, limitações e conteúdo pendente.

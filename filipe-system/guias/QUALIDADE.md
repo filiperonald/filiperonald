@@ -9,6 +9,12 @@
 - [ ] Mobile, largura intermediária e desktop inspecionados no navegador.
 - [ ] Links, âncoras, downloads e navegação verificados.
 
+## Revisão contra AI slop
+
+- [ ] Aplicados os testes de troca de marca, utilidade e verdade de [ANTI-AI-SLOP.md](ANTI-AI-SLOP.md).
+- [ ] Revisados textos vagos, composições repetitivas, imagens artificiais e efeitos sem função.
+- [ ] Verificados comportamento real, interface renderizada e revisão editorial; correções e limitações registradas.
+
 ## Interação
 
 - [ ] Teclado, foco, toque, zoom e movimento reduzido funcionando.

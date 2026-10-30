@@ -15,6 +15,10 @@ Snapshot: 30/10/2026. Valores visuais são pontos de partida, não regras aprova
 
 Guias de segurança e movimento informados por pesquisa nas referências pertinentes. Revalidar fontes, APIs, licenças e recomendações ao iniciar cada projeto.
 
+## Pesquisa sobre AI slop
+
+Referências consultadas em 30/10/2026 e limites de aplicação registrados em [ANTI-AI-SLOP.md](guias/ANTI-AI-SLOP.md): [Anthropic — Frontend Design](https://claude.com/marketplace/plugins/frontend-design), [NN/g — The Custodial Era of UX](https://www.nngroup.com/articles/ai-ux-debt/) e [NN/g — Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/). As regras do kit são uma síntese editorial, não um detector de autoria por IA.
+
 ## Origem local
 
 Projeto filiperonald-site/projetos. referencia-portfolio/ preserva Markdown e tokens originais, inclusive histórico e contradições; não comprova o estado de segurança ou produção do site.

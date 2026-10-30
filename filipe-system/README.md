@@ -7,7 +7,7 @@ Biblioteca pessoal para criar experiências digitais com intenção. Snapshot: 3
 1. Preencha [BRIEFING.md](templates/BRIEFING.md).
 2. Leia [AGENTS.md](AGENTS.md) e [FLUXO-DE-TRABALHO.md](guias/FLUXO-DE-TRABALHO.md).
 3. Consulte o [catálogo das 79 skills](skills/CATALOGO.md); aplique apenas as relevantes.
-4. Registre decisões e referências nos templates.
+4. Aplique [ANTI-AI-SLOP.md](guias/ANTI-AI-SLOP.md) e registre decisões e referências nos templates.
 5. Execute [QUALIDADE.md](guias/QUALIDADE.md) antes da entrega.
 
 ## Estrutura

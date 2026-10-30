@@ -4,6 +4,8 @@ Defina personalidade, público, promessa e ação principal antes da paleta. Tec
 
 ## Tokens
 
+Antes de consolidar a direção, aplique [ANTI-AI-SLOP.md](ANTI-AI-SLOP.md): composição, conteúdo e detalhes precisam responder à marca e à tarefa, com revisão do resultado renderizado.
+
 Use papéis semânticos: fundo, superfície, texto, secundário, ação, texto sobre ação, borda, foco, sucesso, aviso e erro. Defina modos claro/escuro e confira contraste por estado.
 
 Referência opcional do portfólio:
