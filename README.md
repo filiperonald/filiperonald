@@ -34,7 +34,7 @@ De um retrato a uma identidade visual ou interface, busco traduzir a essência d
 ## Em destaque · Vira.
 
 <a href="https://vira.filiperonald.com/">
-  <img src="https://filiperonald.com/images/vira-home.png" alt="Vira: página inicial com o conversor de imagens e PDF sobre fundo verde." width="100%" />
+  <img src="./vira-home-atual.png" alt="Vira: página inicial com o conversor de imagens e PDF sobre fundo verde." width="100%" />
 </a>
 
 **Sua imagem. Vira PDF.** Uma ferramenta autoral que reúne design, interface e desenvolvimento para resolver uma tarefa do dia a dia.
